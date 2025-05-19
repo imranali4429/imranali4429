@@ -1,5 +1,5 @@
 ![link](https://media.licdn.com/dms/image/v2/D4E16AQGPAO6OAxbu3A/profile-displaybackgroundimage-shrink_350_1400/B4EZbnelW_GQAY-/0/1747640281096?e=1753315200&v=beta&t=48DuAseRFqnqL6FlbsSDCbEp9tTTJyEgZeFFv-IAISo)
-### Hi there 👋, Hi, I am Imran Ali 
+###   Hi, I am Imran Ali  👋
 #### I am a Front End  Web Developer 
 
 
@@ -15,10 +15,10 @@ Let’s connect and grow together in the tech world!
 
 Skills:   REACT( learning)  / JS / HTML / CSS
 
-- 🔭 I’m currently working on my home to develop my self. 
-- 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about web development problem. 
+- 🔭 I’m currently working on my home to develop myself. 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about web development problems. 
 - 📫 How to reach me: Email: imran4429ali@gmail.com 
 
 
