@@ -1,7 +1,7 @@
-
+[link](https://drive.google.com/file/d/16nmGTytYga87L6nOpufA1mZVTbuuUST9/view?usp=sharing)
 ### Hi there 👋, Hi, I am Imran Ali 
 #### I am a Front End  Web Developer 
-![I am a Front End  Web Developer ](https://drive.google.com/file/d/16nmGTytYga87L6nOpufA1mZVTbuuUST9/view?usp=sharing)
+
 
 👋 Hi there! I'm an aspiring Front-End Developer passionate about creating clean, user-friendly web interfaces.
 💻 I've completed HTML and CSS and am currently diving deep into advanced JavaScript to build dynamic, interactive web applications.
