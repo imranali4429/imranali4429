@@ -26,22 +26,30 @@ Skills:   REACT( learning)  / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=imranali4429)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+## 💡 Skills & Tools
+HTML | CSS | Tailwind CSS | DaisyUI | JavaScript | DOM Manipulation | Responsive Design  
+
+---
+
+### 🏆 GitHub Trophies
+ [![trophy](https://github-profile-trophy.vercel.app/?username=imranali4429)](https://github.com/ryo-ma/github-profile-trophy)
 
  ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imranali4429&show_icons=true&count_private=true&theme=tokyonight)
 
+### 💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranali4429&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### 🏅 Contribution Badge
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/imranali4429/contributions?format=svg&private=true)
 
-
+### 📈 GitHub Stats
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranali4429&show_icons=true&theme=tokyonight)
 
 
-
+### 🔥 GitHub Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imranali4429)
  
 
