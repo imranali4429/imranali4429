@@ -28,9 +28,11 @@ Skills:   REACT( learning)  / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/imranali4429)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/imranali4429)](https://github.com/anuraghazra/github-readme-stats)
+ ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imranali4429&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/imranali4429&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranali4429&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/imranali4429/contributions?format=svg&private=true)
 
