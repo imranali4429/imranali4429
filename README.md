@@ -59,8 +59,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=imranali4429)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=imranali4429)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
