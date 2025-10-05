@@ -34,7 +34,8 @@ Skills:   REACT( learning)  / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/imranali4429/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/imranali4429)  
+![GitHub metrics](https://metrics.lecoq.io/imranali4429)
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imranali4429)
  
