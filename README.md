@@ -36,5 +36,6 @@ Skills:   REACT( learning)  / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/imranali4429)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/imranali4429)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=imranali4429)
+ 
 
